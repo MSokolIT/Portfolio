@@ -1,1 +1,1 @@
-#kod
+#include <iostream>
