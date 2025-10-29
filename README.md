@@ -30,7 +30,7 @@ Pokazuje rozwój moich umiejętności oraz przykłady pracy z kodem i testami.
 ---
 
 ## 📬 Kontakt
-- 📧 **twój.mail.profesjonalny@gmail.com**  
+- 📧 michalsokol.it@gmail.com  
 - 💼 [Profil Useme](https://useme.com/pl/)  
 - 🌐 [LinkedIn / Portfolio online](#)
 
