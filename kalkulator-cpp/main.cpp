@@ -6,13 +6,13 @@ int main()
 	double a, b;
 	char op;
 	cout << "----------Kalkulator----------" << endl<<endl;
-	cout << "Podaj pierwszą liczbę: ";
+	cout << "Podaj pierwsza liczbe: ";
 	cin >> a;
 
 	cout << "Podaj operator (+,-,*,/) ";
 	cin >> op;
 
-	cout << "Podaj drugą liczbę: ";
+	cout << "Podaj druga liczbe: ";
 	cin >> b;
 
 	switch (op) {
